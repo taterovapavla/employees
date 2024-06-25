@@ -1,9 +1,9 @@
 # Employees
 
-Employees is a project developed during an internship at Pipedrive focused on software engineering. The first phase of the internship consisted of four intensive training sessions where interns, in addition to other projects, also created this project under the guidance of experienced programmers.
+Employees is a project developed during an internship at Pipedrive focused on software engineering. The first part of the internship was the School of Code which was a four-week intensive training where interns, in addition to other projects, also created this project under the guidance of experienced programmers.
 
 ## Features
-- Edit, and delete employee records
+- (Edit) and delete employee records
 - View a list of employees with detailed information
 
 ## Technologies
